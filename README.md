@@ -1,0 +1,12 @@
+# Exit of employee analysis
+
+When an employee quits the organization, they take way experience, skill, knowledge acquired over a period of time within the organization. This affects the organization and the impact is not only restricted to that but also brings the task of finding a suitable replacement. Mostly the suitable replacement is hired from external and it again adds time and cost to the organization.
+
+The HR department of a multinational company would like to understand the reasons for premature exit of experienced employees using Machine Learning techniques. For achieving this, they must:
+
+Explore the dataset and check if the data can be used as-is.
+
+1. Determine the relationship between satisfaction level and working hours of employees who have left the organization.
+2. Understand the effect of satisfaction level, department, promotion in last 5 years and salary level of employees who have left the organization.
+
+3. Build a machine learning model to predict the exit of employees.
